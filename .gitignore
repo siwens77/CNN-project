@@ -1,6 +1,9 @@
 .DS_Store
 
-/images
+/images/*
+!images/class_imbalance.png
+!images/confusion_matrices.png
+!images/roc_curves.png
 
 *.csv
 
