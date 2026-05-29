@@ -69,4 +69,4 @@ pip install -r requirements.txt
 ### 4. Download the Model Weights
 #### Located in GitHub Release - due to the file size
 
-### 5. Run the Notebook 🚀
+### 5. Run the Notebook 
