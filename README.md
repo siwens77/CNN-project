@@ -1,5 +1,6 @@
 # Medical Images - CNN Project
 
+## Authors: Krzysztof Nowak, Paweł Siurek
 
 An end-to-end deep learning project utilizing CNNs for a multi-label classification problem of 14 distinct radiological findings from chest radiographs, using the NIH Chest X-ray14 dataset.
 
